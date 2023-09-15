@@ -6,7 +6,7 @@
 
 ## Introduction
 
-This is my second clone of Airbnb. The goal of this project is to replicate the functionality of Airbnb while exploring the capabilities of a broader set of web technologies. This project is still under development and not yet ready for production use.
+This is my second clone of Airbnb. The goal of this project is to replicate the functionality of Airbnb while exploring the capabilities of a broader set of web technologies. 
 
 ---
 
