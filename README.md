@@ -35,11 +35,11 @@ This is my second clone of Airbnb. The goal of this project is to replicate the 
 
 1. **Clone the repository**
     ```sh
-    git clone https://github.com/AlexM2098/airbnb-clone2.0.git
+    git clone https://github.com/AlexM2098/react-airbnb
     ```
 2. **Navigate into the project directory**
     ```sh
-    cd airbnb-2
+    cd react-airbnb
     ```
 3. **Install dependencies**
     ```sh
