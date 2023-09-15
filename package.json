@@ -9,6 +9,7 @@
     "deploy": "gh-pages -d .next",
     "build": "next build",
     "start": "next start",
+    "postinstall": "prisma generate",
     "lint": "next lint"
   },
   "dependencies": {
