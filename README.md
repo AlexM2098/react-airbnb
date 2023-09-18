@@ -21,7 +21,7 @@ This is my second clone of Airbnb. The goal of this project is to replicate the 
 
 ---
 
-## Features (Planned)
+## Features 
 
 - [ ] User authentication
 - [ ] Property listings
